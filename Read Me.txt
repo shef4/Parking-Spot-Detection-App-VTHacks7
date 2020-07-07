@@ -1,0 +1,26 @@
+Find My Spot!
+A solution to the JB Hunt problem
+
+
+Parking Problems
+WASTE TIME
+WASTE MONEY
+WASTE RESOURCES
+WASTE YOUR LIFE
+Talk about inspiration to not only help JB Hunt, but parking anywhere as a scale up
+
+
+Major Steps
+Tensorflow ML model to analyze image
+Dialogflow input/output and decision algorithm
+Flask to Google app engine for communication (Future)
+Implementation of camera (Future)
+
+GOOGLE CLOUD 
+Dialogflow training and decision on parking lots
+FireBase for error troubleshooting 
+App Engine to combine Flask and Dialogflow (Future)
+
+
+Citations
+Dwivedi. (2019, March 27). Find where to park in real time using OpenCV and Tensorflow. Retrieved from https://towardsdatascience.com/find-where-to-park-in-real-time-using-opencv-and-tensorflow-4307a4c3da03
